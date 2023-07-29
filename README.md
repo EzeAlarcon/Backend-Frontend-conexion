@@ -1,4 +1,4 @@
-# Backend-Frotent-conexion
+# Backend-Frontent-conexion
 Backend-Frolent-conexion
 realiza la conexion entre un Frontend echo en React.js y un Backend en FastAPI tomando datos de una base de datos MySQL.
 
